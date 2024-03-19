@@ -1,2 +1,1 @@
-This is master code file
-Added the new feature from dev env
+This is the bug fix in development branch
